@@ -4,7 +4,6 @@ This is a simple game where you have to find three gifts in a grid. There are th
 
 # Demo
 
-## https://sauravhathi.github.io/hides-three-gifts/
 
 ![image](https://user-images.githubusercontent.com/84177920/198501831-0a3eb329-8121-4cc3-b3f1-89745e669115.png)
 
